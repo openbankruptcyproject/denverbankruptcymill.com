@@ -5,11 +5,12 @@
 denverbankruptcymill.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Denver Bankruptcy Mill: Warning Signs and What the Court Data Shows: https://denverbankruptcymill.com/
 - Chapter 13 Bankruptcy Mills in Denver: Red Flags and What to Watch For: https://denverbankruptcymill.com/chapter-13-denver.html
 - Chapter 7 Bankruptcy in Denver: Costs, Timeline and What to Know: https://denverbankruptcymill.com/chapter-7-denver.html
 - How to Check Your Denver Bankruptcy Attorney's Track Record: https://denverbankruptcymill.com/how-to-check.html
+- Denver Bankruptcy Mill: Warning Signs and What the Court Data Shows: https://denverbankruptcymill.com/
 - 5 Warning Signs of a Bankruptcy Mill in Denver: https://denverbankruptcymill.com/warning-signs.html
+- Privacy Policy: https://denverbankruptcymill.com/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
